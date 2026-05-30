@@ -13,12 +13,12 @@ export const navigationItems = [
     icon: LayoutDashboardIcon,
   },
   {
-    label: "Transfers",
+    label: "Transferências",
     href: routes.transfers,
     icon: ArrowLeftRightIcon,
   },
   {
-    label: "Transactions",
+    label: "Transações",
     href: routes.transactions,
     icon: CreditCardIcon,
   },
